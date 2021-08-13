@@ -1,8 +1,8 @@
-- Hi, I’m @AtlaZR
-- I’m interested in Geometry Dash or interesting content.
-- I learned some basics of HTML
-- I’m not looking to collaborate on projects, but i can have some exceptions.
-- You can talk me with my email atlazr02@gmail.com or searching in this link: https://allmylinks.com/atlazr68
+- Hola, soy @AtlaZR
+- Estoy interesado en Geometry Dash, juegos de ritmo o contenido interesante en GitHub.
+- Aprendí unas basicas de HTML y un poco de manejo de bases de datos en paginas web.
+- No busco colaborar en projectos, pero pueden haber excepciones si me interesa mucho el projecto.
+- Puedes contactarme a través de mi correo de contacto "atlazr02@gmail.com" o encontrar todas las formas en esta pagina: https://allmylinks.com/atlazr68
 
 <!---
 AtlaZR/AtlaZR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
